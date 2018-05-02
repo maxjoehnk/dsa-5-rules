@@ -1,0 +1,16 @@
+{
+  "id": "competent",
+  "name": {
+    "de-DE": "Kompetent",
+    "en-US": "Competent"
+  },
+  "adventurePoints": 1200,
+  "limits": {
+    "attributeValue": 15,
+    "skillValue": 13,
+    "combatTechnique": 14,
+    "attribute": 102,
+    "numberOfSpells": 14,
+    "foreignChants": 3
+  }
+}

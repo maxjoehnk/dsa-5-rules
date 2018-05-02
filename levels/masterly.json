@@ -1,0 +1,16 @@
+{
+  "id": "masterly",
+  "name": {
+    "de-DE": "Meisterlich",
+    "en-US": "Masterly"
+  },
+  "adventurePoints": 1400,
+  "limits": {
+    "attributeValue": 16,
+    "skillValue": 16,
+    "combatTechnique": 16,
+    "attribute": 105,
+    "numberOfSpells": 16,
+    "foreignChants": 4
+  }
+}

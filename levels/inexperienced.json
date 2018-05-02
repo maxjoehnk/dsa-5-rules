@@ -1,0 +1,16 @@
+{
+  "id": "inexperienced",
+  "name": {
+    "de-DE": "Unerfahren",
+    "en-US": "Inexperienced"
+  },
+  "adventurePoints": 900,
+  "limits": {
+    "attributeValue": 12,
+    "skillValue": 10,
+    "combatTechnique": 8,
+    "attribute": 95,
+    "numberOfSpells": 8,
+    "foreignChants": 0
+  }
+}

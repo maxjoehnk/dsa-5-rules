@@ -1,0 +1,16 @@
+{
+  "id": "legendary",
+  "name": {
+    "de-DE": "Legendär",
+    "en-US": "Legendary"
+  },
+  "adventurePoints": 2100,
+  "limits": {
+    "attributeValue": 18,
+    "skillValue": 20,
+    "combatTechnique": 20,
+    "attribute": 114,
+    "numberOfSpells": 20,
+    "foreignChants": 6
+  }
+}

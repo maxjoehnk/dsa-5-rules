@@ -1,0 +1,16 @@
+{
+  "id": "brillant",
+  "name": {
+    "de-DE": "Brillant",
+    "en-US": "Brillant"
+  },
+  "adventurePoints": 1700,
+  "limits": {
+    "attributeValue": 17,
+    "skillValue": 19,
+    "combatTechnique": 18,
+    "attribute": 109,
+    "numberOfSpells": 18,
+    "foreignChants": 5
+  }
+}

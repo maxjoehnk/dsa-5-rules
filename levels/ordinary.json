@@ -1,0 +1,16 @@
+{
+  "id": "ordinary",
+  "name": {
+    "de-DE": "Durchschnittlich",
+    "en-US": "Ordinary"
+  },
+  "adventurePoints": 1000,
+  "limits": {
+    "attributeValue": 13,
+    "skillValue": 10,
+    "combatTechnique": 10,
+    "attribute": 98,
+    "numberOfSpells": 10,
+    "foreignChants": 1
+  }
+}

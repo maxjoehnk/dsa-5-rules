@@ -1,0 +1,16 @@
+{
+  "id": "experienced",
+  "name": {
+    "de-DE": "Erfahren",
+    "en-US": "Experienced"
+  },
+  "adventurePoints": 1100,
+  "limits": {
+    "attributeValue": 14,
+    "skillValue": 10,
+    "combatTechnique": 12,
+    "attribute": 100,
+    "numberOfSpells": 12,
+    "foreignChants": 2
+  }
+}

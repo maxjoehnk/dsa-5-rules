@@ -1,0 +1,74 @@
+{
+  "id": "dwarves",
+  "name": {
+    "de-DE": "Zwerge",
+    "en-US": "Dwarves"
+  },
+  "cost": 61,
+  "base": {
+    "values": {
+      "lifePoints": 8,
+      "spirit": -4,
+      "toughness": -4,
+      "movement": 6
+    }
+  },
+  "adjustments": [
+    {
+      "stats": ["con"],
+      "value": 1
+    },
+    {
+      "stat": ["str"],
+      "value": 1
+    },
+    {
+      "stat": ["cha", "agi"],
+      "value": -2
+    }
+  ],
+  "recommendations": {
+    "advantages": [
+      "advantage:darksight:tier-1",
+      "advantage:immunity-to-tulmadron"
+    ],
+    "disadvantages": [
+      "disadvantage:incompetence:swimming"
+    ]
+  },
+  "common": {
+    "cultures": [
+      "culture:diamond-dwarves",
+      "culture:forge-dwarves",
+      "culture:hill-dwarves",
+      "culture:ore-dwarves"
+    ],
+    "advantages": [
+      "advantage:darksight:tier-2",
+      "advantage:difficult-to-enchant",
+      "advantage:direction-sense",
+      "advantage:dwarfs-nose",
+      "advantage:increased-toughness",
+      "advantage:resistant-to-disease",
+      "advantage:resistant-to-heat",
+      "advantage:rugged-fighter"
+    ],
+    "disadvantages": [
+      "disadvantage:frenzy"
+    ]
+  },
+  "uncommon": {
+    "advantages": [
+      "advantage:beautiful-voice",
+      "advantage:contortionist",
+      "advantage:spellcaster"
+    ],
+    "disadvantages": [
+      "disadvantage:decreased-spirit",
+      "disadvantage:decreased-toughness",
+      "disadvantage:night-blind",
+      "disadvantage:sensitive-to-pain",
+      "disadvantage:susceptible-to-heat"
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "elves",
+  "name": {
+    "de-DE": "Elfen",
+    "en-US": "Elves"
+  },
+  "cost": 18,
+  "base": {
+    "values": {
+      "lifePoints": 2,
+      "spirit": -4,
+      "toughness": -6,
+      "movement": 8
+    },
+    "advantages": [
+      "advantage:spellcaster",
+      "advantage:two-voiced-singing"
+    ]
+  },
+  "adjustments": [
+    {
+      "stats": ["int"],
+      "value": 1
+    },
+    {
+      "stats": ["agi"],
+      "value": 1
+    },
+    {
+      "stats": ["sgc", "str"],
+      "value": -2
+    }
+  ],
+  "common": {
+    "cultures": [
+      "culture:glade-elves",
+      "culture:firnelves",
+      "culture:wood-elves"
+    ],
+    "advantages": [
+      "ambidextrous",
+      "aptitude",
+      "beautiful-voice",
+      "contortionist",
+      "darksight-2",
+      "direction-sense",
+      "exceptional-sense-hearing",
+      "exceptional-sense-sight",
+      "good-looks",
+      "immunity-black-rabies",
+      "immunity-rabies",
+      "immunity-lycanthropy",
+      "improved-regeneration-arcane-energy",
+      "nimble",
+      "resistant-to-disease",
+      "resistant-to-poison"
+    ],
+    "disadvantages": [
+      "annoyed-by-minor-spirits",
+      "hair-bound-power",
+      "true-name"
+    ]
+  },
+  "uncommon": {
+    "advantages": [
+      "difficult-to-enchant",
+      "dwarfs-nose",
+      "resistant-to-heat"
+    ],
+    "disadvantages": [
+      "fat",
+      "frenzy",
+      "night-blind",
+      "restricted-sense"
+    ]
+  }
+}

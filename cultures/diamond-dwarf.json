@@ -1,0 +1,9 @@
+{
+  "id": "diamond-dwarf",
+  "name": {
+    "de-DE": "Brilliantzwerge",
+    "en-US": "Diamond Dwarf"
+  },
+  "language": "rogolan",
+  "script": "rogolan-runes"
+}
